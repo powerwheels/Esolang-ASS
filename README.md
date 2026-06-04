@@ -31,8 +31,8 @@ $    OR operation (two inputs)
 |5| writes 5
 \> moves pointer right again
 {} starts operation
-< selects first input
+< selects first value
 / separates second input
-<< moves selection two steps left
+<< moves value selection two to the right
 & performs AND to the selected bytes
 } ends operation and stores results on tape
