@@ -23,7 +23,7 @@ $    OR operation (two inputs)
 
 # Examples of how they work
 [|10|>|5|>{</<<&}]
-[ ... ] starts and ends program
+[] starts and ends program
 |10| writes 10 to tape
 > moves pointer right
 |5| writes 5
